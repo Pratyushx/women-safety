@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zaoudre\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Zaoudre\AndroidStudioProjects\Women-Safety-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_e4fe0cbb761f8b56332d9210c50ac213aa453064\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zaoudre\AndroidStudioProjects\Women-Safety-App-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="258cba097c125484a29bbd594aab8334e1e2b33f">
+        <dex dex="C:\Users\Zaoudre\AndroidStudioProjects\Women-Safety-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0ae6ca5e7e4091b7408199067405cc9ea48a4d1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zaoudre\AndroidStudioProjects\Women-Safety-App-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="10f6f5aca368602fcf3908fa88878b90fb90bfa7">
+        <dex dex="C:\Users\Zaoudre\AndroidStudioProjects\Women-Safety-App-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f974270ee66cb561cdbface193f67a343e9fa26a\classes.dex" />
+    </item>
+
+</items>

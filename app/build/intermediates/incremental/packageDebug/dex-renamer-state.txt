@@ -1,0 +1,7 @@
+#Fri Dec 14 22:33:36 IST 2018
+base.0=C\:\\Users\\Zaoudre\\AndroidStudioProjects\\Women-Safety-App-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0ae6ca5e7e4091b7408199067405cc9ea48a4d1c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Zaoudre\\AndroidStudioProjects\\Women-Safety-App-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f974270ee66cb561cdbface193f67a343e9fa26a\\classes.dex
+base.1=C\:\\Users\\Zaoudre\\AndroidStudioProjects\\Women-Safety-App-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f974270ee66cb561cdbface193f67a343e9fa26a
+file.0=C\:\\Users\\Zaoudre\\AndroidStudioProjects\\Women-Safety-App-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0ae6ca5e7e4091b7408199067405cc9ea48a4d1c\\classes.dex
